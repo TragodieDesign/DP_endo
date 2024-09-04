@@ -1,0 +1,15 @@
+{
+  "name": "dp_ctjt_backend",
+  "version": "1.0.0",
+  "description": "A project to organize our team's data",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
